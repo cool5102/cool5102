@@ -30,8 +30,9 @@ With experience in IT administration, process automation, and scripting with Pyt
 A multi-threaded Python tool that scans networks for active hosts and open ports.  
 Includes auto IP detection, GUI prompt, and CSV reporting.
 
-### 🔹 LogGuard *(coming soon)*
-Parses system logs to detect brute-force login attempts and generates CSV reports.
+### 🔹 [LogGuard](https://github.com/cool5102/LogGuard)
+A Python-based security automation tool that detects brute-force login attempts by analyzing system authentication logs.  
+The AutoBan Edition can automatically block suspicious IPs using the system firewall (ufw, iptables, or netsh).
 
 ### 🔹 AutoRecon *(coming soon)*
 Automated reconnaissance script combining `whois`, `dig`, and optional Nmap scans.
