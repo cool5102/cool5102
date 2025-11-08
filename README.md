@@ -13,7 +13,6 @@ With experience in IT administration, process automation, and scripting with Pyt
 **Networking & Security:** Linux (Kali), Nmap, Firewall Management, LAN/WAN Configuration  
 **Databases:** MySQL, SQLite  
 **Version Control:** Git, GitHub  
-**Other Tools:** Docker, VS Code, Postman
 
 ---
 
