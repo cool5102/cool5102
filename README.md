@@ -26,7 +26,7 @@ With experience in IT administration, process automation, and scripting with Pyt
 
 ## 🚀 Featured Projects
 
-### 🔹 [AutoNetScan](https://github.com/cool5102/Dilshad/tree/main/AutoNetScan)
+### 🔹 [AutoNetScan](https://github.com/cool5102/AutoNetScan)
 A multi-threaded Python tool that scans networks for active hosts and open ports.  
 Includes auto IP detection, GUI prompt, and CSV reporting.
 
