@@ -45,7 +45,7 @@ Monitors network ports in real time using **Nmap** and notifies users about new 
 ---
 
 ## 🧰 Certifications & Education  
-- 🎓 **Bachelor of Computer Applications (B.C.A.)** – IGNOU (2025)  
+- 🎓 **Bachelor of Computer Applications (B.C.A.)** – Shoolini University  
 - 🧾 **Ethical Hacking** – Indian Institute of Computer Science (2020)  
 - 🧾 **Digital Marketing Certification** – Indian Institute of Computer Science (2020)  
 - 🖥️ **D.T.P.** – Indira Gandhi Training Institute (2013)  
